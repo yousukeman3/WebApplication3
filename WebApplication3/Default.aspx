@@ -18,6 +18,11 @@
                     <a href="WebForm1.aspx">二次方程式</a>
                 </td>
             </tr>
+            <tr>
+                <td>
+                    <a href="HtmlPage1.html">Scratch版の素因数分解プログラム</a>
+                </td>
+            </tr>
         </table>
     </div>
     </form>
